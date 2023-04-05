@@ -15,5 +15,8 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/QLambkin/Tindog/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
